@@ -14,11 +14,7 @@ This project demonstrates a complete voice interaction pipeline by combining:
 
 The chatbot plays a recorded voice message, transcribes it into text, generates an AI response, then converts that response into speech.
 
----
-
-## 🎥 Demo
-
-[Google Drive Video](https://drive.google.com/file/d/1cwLHMiKMFqYY43BrItic3WMhgrh809FG/view?usp=drivesdk)
+🎥 [AI Voice Chatbot Demo](https://drive.google.com/file/d/1cwLHMiKMFqYY43BrItic3WMhgrh809FG/view?usp=drivesdk)
 
 ---
 
